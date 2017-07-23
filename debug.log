@@ -1,0 +1,6 @@
+[0609/072106.976:ERROR:process_reader_win.cc(142)] SuspendThread: Accès refusé. (0x5)
+[0609/072106.978:ERROR:exception_snapshot_win.cc(87)] thread ID 11120 not found in process
+[0609/072106.978:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0609/072856.428:ERROR:process_reader_win.cc(142)] SuspendThread: Accès refusé. (0x5)
+[0609/072856.429:ERROR:exception_snapshot_win.cc(87)] thread ID 9472 not found in process
+[0609/072856.429:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
