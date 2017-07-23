@@ -1,1 +1,1 @@
-# MOONs
+# Spectograph
